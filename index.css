@@ -1,0 +1,100 @@
+.main-nav {
+    position: relative;
+}
+
+.main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 30%;
+}
+
+.main-nav li {
+    display: inline-block;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+/* ICON */
+#GPTICON {
+    width: 20px;
+    height: 20px;
+    top: 5px;
+}
+
+#help {
+    position: absolute;
+    right: 20px;
+}
+
+#chatGPT {
+    position: absolute;
+    top: -5px;
+    left: 30px;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+
+
+#quet {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+
+.button {
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    width: 700px;
+    height: 150px;
+    padding: 12px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    font-size: 16px;
+    resize: none;
+}
+
+.button p {
+    position: absolute;
+    height: 30px;
+    width: 85px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    font-size: large;
+}
+.button textarea {
+    border: none;
+}
+
+#b1 {
+    position: absolute;
+    top: 45%;
+    left: 1%;
+}
+
+#b2 {
+    position: absolute;
+    top: 45%;
+    left: 14%;
+}
+
+#b3 {
+    position: absolute;
+    top: 45%;
+    left: 27%;
+}
+
+#b4 {
+    position: absolute;
+    width: 140px;
+    top: 45%;
+    left: 40%;
+}
+#b5 {
+    position: absolute;
+    top: 45%;
+    right: 1%;
+    background-color: darkgray;
+}
