@@ -89,12 +89,12 @@
 }
 
 #p {
-    border: 1px solid black;
     margin-top: 30%;
     height: 30%;
     width: 79%;
     margin-left: 8%;
     border-radius: 10px;
     padding-left: 30px;
+    padding-top: 2%;
     background-color: white;
 }
