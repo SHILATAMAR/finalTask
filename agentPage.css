@@ -1,0 +1,100 @@
+.main-nav {
+    position: relative;
+}
+
+.main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 30%;
+}
+
+.main-nav li {
+    display: inline-block;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+#GPTICON {
+    width: 20px;
+    height: 20px;
+    top: 5px;
+}
+
+#help {
+    position: absolute;
+    right: 20px;
+}
+
+#LogIn {
+    position: absolute;
+    right: 160px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#SignUp {
+    position: absolute;
+    right: 50px;
+    border: 1px solid rgb(185, 184, 184);
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+
+#chatGPT {
+    position: absolute;
+    top: -5px;
+    left: 30px;
+}
+
+#container {
+    position: absolute;
+    top: 17%;
+    width: 70%;
+    height: 65%;
+    left: 15%;
+}
+
+#text {
+    position: absolute;
+    width: 49%;
+    height: 100%;
+    padding: 8%;
+}
+
+#text span {
+    color: #908e8e;
+}
+
+#text button {
+    right: 160px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#img {
+    position: absolute;
+    width: 49%;
+    height: 100%;
+    right: 0%;
+    border-radius: 10px;
+    background-color: #8ec5fc;
+    background: linear-gradient(135deg, #e4b4f0 0%, #76b4ff 40%, #dfa8e5 70%, #548de2 100%);
+}
+
+#p {
+    border: 1px solid black;
+    margin-top: 30%;
+    height: 30%;
+    width: 79%;
+    margin-left: 8%;
+    border-radius: 10px;
+    padding-left: 30px;
+    background-color: white;
+}
