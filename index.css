@@ -16,6 +16,11 @@
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* ICON */
 #GPTICON {
     width: 20px;
